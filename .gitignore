@@ -3,6 +3,8 @@
 node_modules/
 build/
 temp/
+yarn-error.log
+yarn.lock
 
 tmp/*
 !tmp/.gitkeep
